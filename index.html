@@ -8,7 +8,6 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-
   <title>Acessibilidade | HOME page</title>
 
   <!-- Bootstrap core CSS -->
@@ -23,28 +22,32 @@
 <body>
 
   <section class="acessibilidade">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light top-nav-custom">
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#topNav" aria-controls="topNav"
         aria-expanded="false" aria-label="Top Navigation">
-        <span>ACESSIBILIDADE</span>
+        <span class="nav-link">ACESSIBILIDADE</span>
       </button>
       <div class="collapse navbar-collapse" id="topNav">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item"><a class="nav-link" href="#">Ir para o meno [Alt + 1]</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Ir para conteúdo [Alt + 2]</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Ir para o rodapé [Alt + 3]</a></li>
-          <li class="nav-item">ACESSIBILIDADE <input type="radio" name="contraste"><input type="radio" name="contraste">
+          <li class="nav-item ">
+            <div class="nav-link"> Contraste
+              <input type="radio" name="contraste">
+              <input type="radio" name="contraste">
+            </div>
           </li>
-          <li class="nav-item"><button>A+</button></li>
-          <li class="nav-item"><button>A-</button></li>
+          <li class="nav-item"><button class="nav-link">A+</button></li>
+          <li class="nav-item"><button class="nav-link">A-</button></li>
         </ul>
       </div>
     </nav>
   </section>
 
   <header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-custom">
       <div class="container">
         <a class="navbar-brand" href="#"><img src="#" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
@@ -53,11 +56,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active"><a class="nav-link" href="#">Home<span class="sr-only">(Pagina atual)</span></a>
+            <li class="nav-item active"><a class="nav-link text-center" href="index.html">Home<span class="sr-only">(Pagina atual)</span></a>
             </li>
-            <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+            <li class="nav-item"><a class="nav-link text-center" href="deficienciasNoBrasil.html">Deficientes No Brasil</a></li>
+            <li class="nav-item"><a class="nav-link text-center" href="acessibilidadeNaWeb.html">Acessibilidade na Web</a></li>
+            <li class="nav-item"><a class="nav-link text-center" href="aplicandoAcessibilidade.html">Aplicando Acessibilidade na Web</a></li>
+            <li class="nav-item"><a class="nav-link text-center" href="quemSomos.html">Quem Somos</a></li/li>
+            <li class="nav-itiem"><a class="nav-link text-center" href="contato.html">Contato</a></li>
           </ul>
         </div>
       </div>
@@ -112,7 +117,7 @@
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12">
-              <h1 class="display-4 text-black mt-5 mb-2 text-center" >TÍTULO </h1>
+              <h1 class="display-4 text-black mt-5 mb-2 text-center" >Título </h1>
               <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
             </div>
           </div>
@@ -120,35 +125,35 @@
     </section>
 
     <section class="container h-100 py-5">
-      <h2 class="h2 mb-4 font-base text-center">Titulo</h2>
+      <h2 class="display-4 text-black mt-5 mb-2 text-center">Título</h2>
       <section class="row">
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
             
           <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-            <h3 class="h5 mb-4 font-base">Subtitulo</h3>
-            <p class="lh-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+            <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+            <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
         <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-          <h3 class="h5 mb-4 font-base">Subtitulo</h3>
-          <p class="lh-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+          <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+          <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
         </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
       <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-        <h3 class="h5 mb-4 font-base">Subtitulo</h3>
-        <p class="lh-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+        <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+        <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
       </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-    <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-      <h3 class="h5 mb-4 font-base">Subtitulo</h3>
-      <p class="lh-lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
-    </div>
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
+            <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+            <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+          </div>
         </div>
       </section>
     </section>
@@ -156,7 +161,7 @@
     <section class="container h-100 py-5">
       <div class="row">
       <div class="col-sm-12 col-lg-5 mb-4 mb-lg-0 text-center">
-        <h1 class="display-4 text-black mt-5 mb-2">TÍTULO </h1>
+        <h1 class="display-4 text-black mt-5 mb-2">Título </h1>
         <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
       </div>
     
@@ -180,14 +185,14 @@
       <div class="container h-100">
         <div class="row h-100 align-items-center">
           <div class="col-lg-12">
-            <h1 class="display-4 text-black mt-5 mb-2 text-center">TÍTULO </h1>
+            <h1 class="display-4 text-black mt-5 mb-2 text-center">Título </h1>
             <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
             
             <form>
               <div class="form-row align-items-center">
                 <div class="col-sm-12 col-lg-7 mb-4 mb-lg-0 text-center mx-auto">
                   <label class="sr-only" for="inlineFormInputName">Email</label>
-                  <input type="text" class="form-control" id="inlineFormInputName" placeholder="Email">
+                  <input type="text" class="form-control text-black lead" id="inlineFormInputName" placeholder="Email">
                 </div>
                 <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 text-center">
                   <button type="submit" class="btn btn-dark">Submit</button>
@@ -202,31 +207,34 @@
 
   </main>
 
+ 
   <footer>
     <section class="bg-light py-5">
       <div class="container h-100">
         <div class="row h-100 align-items-center">
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
-            <h1>Sobre</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eligendi porro quibusdam delectus, molestiae dolore repellat quam aliquam similique, a atque eaque explicabo, iusto ipsa voluptatibus iure! Quos, fuga illum.</p>
+            <h1 class="display-4 text-black mb-2 text-center">Sobre</h1>
+            <p class="lead  text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eligendi porro quibusdam delectus, molestiae dolore repellat quam aliquam similique, a atque eaque explicabo, iusto ipsa voluptatibus iure! Quos, fuga illum.</p>
           </div>
+
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
-            <h1>Mapa do site</h1>
+            <h1 class="display-4 text-black  mb-2 text-center">Mapa</h1>
             <nav>
               <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a class="nav-link" href="#">Home<span class="sr-only">(Pagina atual)</span></a>
+                <li class="nav-item active"><a class="nav-link lead text-black-50 text-center" href="#">Home<span class="sr-only">(Pagina atual)</span></a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                <li class="nav-item"><a class="nav-link lead  text-black-50 text-center" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link lead  text-black-50 text-center" href="#">Services</a></li>
+                <li class="nav-item"><a class="nav-link lead  text-black-50 text-center" href="#">Contact</a></li>
               </ul>
             </nav>
           </div>
-          <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0  mx-auto">
-            <h1>Contato</h1>
-            <p>lorem ipsum dolor sit amet, con</p>
-            <p>lorem ipsum dolor sit amet, con</p>
-            <p>lorem ipsum dolor sit amet, con</p>
+
+          <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
+            <h1 class="display-4 text-black mt-5 mb-2 text-center">Sobre</h1>
+            <p class="lead  text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p class="lead  text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p class="lead  text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </div>
         </div>
       </div>

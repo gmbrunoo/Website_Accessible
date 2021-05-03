@@ -1,12 +1,12 @@
 <?php require_once("cabecalho.php");?>
 
-  <main>
+  <main >
          
     <section class="col-lg-12 banner ">
       <img class="banner-img" src="./img/teste3.jpg" alt="">
     </section>
 
-    <section class="bg-light py-5">
+    <section class="py-5" >
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12">
@@ -15,21 +15,21 @@
         </div>
     </section>
 
-    <section class="container h-100 py-5">
+    <section class="container h-100 py-5" id="conteudo">
       <section class="row">
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 ">
         
             <section>
                 <h2 class="h2 mb-4 font-base">Cotato</h2>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
             </section>
             <section>
                 <h2 class="h2 mb-4 font-base">Endereço</h2>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
-                <p class="lead  text-black-50">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
+                <p class="lead   ">Lorem, ipsum dolor sit amet consectetur</p>
             </section>
 
         </div>

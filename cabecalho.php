@@ -19,10 +19,10 @@
 
 </head>
 
-<body>
+<body id="body">
 
   <section class="acessibilidade">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light top-nav-custom">
+    <nav class="navbar navbar-expand-lg navbar-light  top-nav-custom">
 
       <button class="navbar-toggler  top-nav-button-custom " type="button" data-toggle="collapse" data-target="#topNav" aria-controls="topNav"
         aria-expanded="false" aria-label="Top Navigation">
@@ -30,17 +30,18 @@
       </button>
       <div class="collapse navbar-collapse" id="topNav">
         <ul class="navbar-nav mx-auto text-center">
-          <li class="nav-item"><a class="nav-link" href="#">Ir para o meno [Alt + 1]</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Ir para conteúdo [Alt + 2]</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Ir para o rodapé [Alt + 3]</a></li>
+          <li class="nav-item"><a class="nav-link" href="#menu" accesskey="1">Ir para o menu [Alt + 1]</a></li>
+          <li class="nav-item"><a class="nav-link" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
+          <li class="nav-item"><a class="nav-link" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
           <li class="nav-item ">
             <div class="nav-link"> Contraste
-              <input type="radio" name="contraste" class="radio-contraste">
-              <input type="radio" name="contraste" class="radio-contraste">
+              <!-- <input type="radio" name="contraste" class="radio-contraste">
+              <input type="radio" name="contraste" class="radio-contraste"> -->
+              <input type="checkbox" id="input-dark-mode">
             </div>
           </li>
-          <li class="nav-item"><button type="submit" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
-          <li class="nav-item"><button type="submit" class="btn btn-dark top-nav-button-li-custom mb-1">A-</button></li>
+          <li class="nav-item"><button type="submit" id="increase-font" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
+          <li class="nav-item"><button type="submit" id="decrease-font" class="btn btn-dark top-nav-button-li-custom mb-1">A-</button></li>
         </ul>
       </div>
     </nav>
@@ -48,7 +49,7 @@
 
   <header>
     <nav class="navbar navbar-expand-xl navbar-dark bg-dark nav-custom">
-      <div class="container">
+      <div class="container" id="menu">
         <a class="navbar-brand" href="#"><img src="index.php" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
           aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">

@@ -1,6 +1,6 @@
 <?php require_once("cabecalho.php");?>
 
-  <main>
+  <main >
 
     
     <section class="col-lg-12 banner ">
@@ -9,26 +9,26 @@
 
 
 
-    <section class="container h-100 py-5">
+    <section class="container h-100 py-5" id="conteudo">
       <section class="row">
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
           <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-            <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+            <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
         </div>
 
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
             <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-            <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+            <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>
         </div>
 
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
             <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
                 <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-                <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+                <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>
         </div>
         
@@ -38,21 +38,21 @@
             <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
               <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
                 <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-                <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+                <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
               </div>
             </div>
     
             <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
                 <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
                 <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-                <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+                <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
                 </div>
             </div>
     
             <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
                 <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/square.png" alt="...">
                     <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-                    <p class="lead mb-5 text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+                    <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
                 </div>
             </div>
             
@@ -65,21 +65,21 @@
               
             <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
               <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-              <p class="lead  text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+              <p class="lead   ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>
           </div>
   
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 text-center">
           <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-            <p class="lead  text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+            <p class="lead   ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
           </div>
   
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 text-center">
         <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
           <h2 class="h2 mb-4 font-base">Subtitulo</h2>
-          <p class="lead  text-black-50">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
+          <p class="lead   ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
         </div>
           </div>
 

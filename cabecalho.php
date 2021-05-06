@@ -34,14 +34,12 @@
           <li class="nav-item"><a class="nav-link" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
           <li class="nav-item"><a class="nav-link" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
           <li class="nav-item ">
-            <div class="nav-link"> Contraste
-              <!-- <input type="radio" name="contraste" class="radio-contraste">
-              <input type="radio" name="contraste" class="radio-contraste"> -->
-              <input type="checkbox" id="input-dark-mode">
+            <div class="nav-link"> Mudar palheta
+              <input type="checkbox" id="input-dark-mode" class="custom-chekbox">
             </div>
           </li>
-          <li class="nav-item"><button type="submit" id="increase-font" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
-          <li class="nav-item"><button type="submit" id="decrease-font" class="btn btn-dark top-nav-button-li-custom mb-1">A-</button></li>
+          <li class="nav-item"><button onClick="fonte('a')" type="submit" id="increase-font" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
+          <li class="nav-item"><button onClick="fonte('d')" type="submit" id="decrease-font" class="btn btn-dark top-nav-button-li-custom mb-1">A-</button></li>
         </ul>
       </div>
     </nav>

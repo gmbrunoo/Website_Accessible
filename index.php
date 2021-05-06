@@ -48,8 +48,8 @@
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12" id="conteudo">
-              <h1 class="display-4 text-black mt-5 mb-2 text-center font" >Título </h1>
-              <p class="lead mb-5 font ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+              <h1 class="display-4 text-black mt-5 mb-2 text-center" >Título </h1>
+              <p class="lead mb-5 ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
             </div>
           </div>
         </div>

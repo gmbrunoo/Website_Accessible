@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 a{
     color: #000;
 }
@@ -24,8 +28,12 @@ body[dark] .navbar-light .navbar-nav .nav-link {
 
 body {
     width: 100%;
-    height: 100vh;
-    
+    height: 100vh;    
+}
+
+.font{
+    font-size: 1.25rem;
+    font-weight: 300;
 }
 
 .nav-custom{
@@ -44,6 +52,12 @@ body {
 
 .top-nav-button-li-custom{
     width: 50px;
+}
+
+#input-dark-mode{
+  width: 30px;
+  height: 20px;
+
 }
 
 .nav-item{

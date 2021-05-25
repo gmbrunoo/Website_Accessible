@@ -27,28 +27,28 @@
       <p class="lead mb-5  ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quasi accusamus minus fugiat suscipit iste asperiores eaque nostrum cumque cupiditate officia laboriosam quaerat aut pariatur in, molestias veniam rem excepturi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quasi accusamus minus fugiat suscipit iste asperiores eaque nostrum cumque cupiditate officia laboriosam quaerat aut pariatur in, molestias veniam rem excepturi.</p>
       <section class="row">
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="https://avatars.githubusercontent.com/u/72390868?s=400&u=c5aee7ae14af53ff1fc98519558fcd0a2578d5c3&v=4" width="100" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
             <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
+            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="https://avatars.githubusercontent.com/u/47375774?v=4" width="100" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
             <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
+            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="https://avatars.githubusercontent.com/u/67381800?v=4" width="100" alt="...">
                 <h2 class="h2 mb-4 font-base">Subtitulo</h2>
                 <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
+            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="https://avatars.githubusercontent.com/u/54083619?v=4" width="100" alt="...">
             <h2 class="h2 mb-4 font-base">Subtitulo</h2>
             <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
             </div>

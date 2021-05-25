@@ -48,7 +48,7 @@
   <header>
     <nav class="navbar navbar-expand-xl navbar-dark bg-dark nav-custom">
       <div class="container" id="menu">
-        <a class="navbar-brand" href="#"><img src="index.php" alt="Logo"></a>
+        <a class="navbar-brand" href="index.php"><img src="./img/" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
           aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>

@@ -38,7 +38,7 @@
             <form>
                 <div class="form-group">
                   <label for="exampleFormControlInput1">Nome:</label>
-                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Nome">
+                  <input type="nome" class="form-control" id="exampleFormControlInput1" placeholder="Nome">
                 </div>
                 <div class="form-group">
                     <label for="exampleFormControlInput1">Email:</label>
@@ -46,7 +46,7 @@
                 </div>
                 <div class="form-group">
                     <label for="exampleFormControlInput1">Telefone:</label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Telefone">
+                    <input type="telefone" class="form-control" id="exampleFormControlInput1" placeholder="Telefone">
                 </div>
                 <div class="form-group">
                     <label for="exampleFormControlTextarea1">Mensagem:</label>

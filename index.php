@@ -41,79 +41,76 @@
     </div>  -->
     
     <section class="col-lg-12 banner ">
-      <img class="banner-img" src="./img/teste3.jpg" alt="">
+    <img class="banner-img" src="./img/4504.jpg" alt="" >
     </section>
 
     <section class="py-5">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12" id="conteudo">
-              <h1 class="display-4 text-black mt-5 mb-2 text-center" >Título </h1>
-              <p class="lead mb-5 ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+              <h1 class="display-4 text-black mt-5 mb-2 text-center" >Deficiência no Brasil</h1>
+              <p class="lead mb-5 ">De acordo com o Censo 2010, próximo de 46 milhões de brasileiros, cerca de 24% da população declarou ter algum grau de dificuldade em pelo menos uma das habilidades investigadas(enxergar, ouvir, caminhar), deficiência mental, entre outras.
+O IBGE captou informações sobre a dificuldade em ouvir, enxergar e caminhar, mesmo contando com facilitadores como óculos, aparelhos auditivos, bengalas.
+A pesquisa buscou também identificar deficiência intelectual e mental através da compreensão de realizações de atividades habituais.	
+A pesquisa considerando somente os que possuem grande ou total dificuldade para enxergar, ouvir e caminhar, além dos que declararão ter deficiência mental ou intelectual, temos mais de 12,5 milhões de brasileiros ocm deficiência, o que corresponde a 6,7% da população.
+A deficiência visual está presente em 3,4% da população brasileira; a motora está em 2,3%; deficiência mental em 1,4% e auditiva em 1,1%.
+              Além do Censo, o IBGE também investiga as populações que possui deficiências com dificuldade de mobilidade, por meio da Pesquisa de Informações Básicas Municipais (Munic).
+              Segundo a Munic 2017, cerca de 1.679 municípios que dispunham de serviço de transporte coletivo por ônibus intramunicipal, 11,7% estavam com a frota totalmente adaptada para a acessibilidade de pessoas com deficiência ou com mobilidade reduzida, enquanto 48,8% possuíam frota parcialmente adaptada.</p>
             </div>
           </div>
         </div>
     </section>
 
-    <section class="container h-100 py-5">
+    <section class="container h-50 py-5">
       <h2 class="display-4 text-black mt-5 mb-2 text-center">Título</h2>
       <section class="row">
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
             
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-            <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/deficiencia_visual.jpg" width="150" alt="...">
+            <h2 class="h2 mb-4 font-base text-center">Visual</h2>
             <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-        <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-          <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+        <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/auditiva.png" width="160" alt="...">
+          <h2 class="h2 mb-4 font-base text-center">Auditiva</h2>
           <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
         </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-      <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-        <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+      <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/cognitiva.png" width="110" alt="...">
+        <h2 class="h2 mb-4 font-base text-center">Cognitiva</h2>
         <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
       </div>
         </div>
 
         <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/circle.png" width="100" alt="...">
-            <h2 class="h2 mb-4 font-base text-center">Subtitulo</h2>
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/motora.png" width="110" alt="...">
+            <h2 class="h2 mb-4 font-base text-center">Motora</h2>
             <p class="lead mb-5  ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quos recusandae provident perspiciatis dolorum ea non itaque ut. </p>
           </div>
         </div>
       </section>
     </section>
 
-    <section class="container h-100 py-5">
+    <section class="container h-50 py-5">
       <div class="row">
-      <div class="col-sm-12 col-lg-5 mb-4 mb-lg-0 text-center">
-        <h1 class="display-4 text-black mt-5 mb-2">Título </h1>
-        <p class="lead mb-5  ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+        <div class="col-sm-12 col-lg-5 mb-4 mb-lg-0 text-center align">
+          <h1 class="display-4 text-black mt-5 mb-2">Título </h1>
+          <p class="lead mb-5  ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+        </div>
+
+        <div class="col-lg-6 col-sm-12">
+          <img class="img-padding" src="./img/logo.png" alt="">
+        </div>
+
       </div>
-    
-
-      
-      <section class="col-sm-12 col-lg-7 mb-4 mb-lg-0 text-center">
-        <div class="row">
-          <div class="col-lg-6 col-sm-12">
-            <img class="img-padding" src="./img/square.png" alt="">
-            <img class="img-padding" src="./img/square.png" alt="">
-          </div>
-
-          <div class="col-lg-6 col-sm-12">
-            <img class="img-padding" src="./img/rectangle.png" alt="">
-          </div>
-      </section>
-    </div>
     </section>
     
     <section class="py-5">
-      <div class="container h-100">
+      <div class="container h-50">
         <div class="row h-100 align-items-center">
           <div class="col-lg-12">
             <h1 class="display-4 text-black mt-5 mb-2 text-center">Título </h1>

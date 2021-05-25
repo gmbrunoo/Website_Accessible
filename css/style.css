@@ -31,6 +31,10 @@ body {
     height: 100vh;    
 }
 
+.h2, h2{
+    font-size: 1.5rem;
+}
+
 .font{
     font-size: 1.25rem;
     font-weight: 300;
@@ -68,6 +72,11 @@ body {
     color: default;
 }
 
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+}
+
 .radio-contraste{
     cursor: pointer;
 }
@@ -88,4 +97,13 @@ body {
 iframe{
     width: 100%;
     height: 500px;
+}
+.align{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.paddingBx{
+    padding: 1.0rem!important;
 }

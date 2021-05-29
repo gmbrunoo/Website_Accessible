@@ -1,12 +1,12 @@
 <?php require_once("cabecalho.php");?>
 
-  <main >
+  <main>
          
     <section class="col-lg-12 banner ">
       <img class="banner-img" src="./img/teste3.jpg" alt="">
     </section>
 
-    <section class="container h-100 py-5" id="conteudo">>
+    <section class="container h-100 py-5" id="conteudo">
       <section class="row py-4">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 ">
             <img class="img-padding" src="./img/square.png" alt="">

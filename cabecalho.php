@@ -14,8 +14,10 @@
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <!-- <link href="css/business-frontpage.css" rel="stylesheet"> -->
   <link href="./css/style.css" rel="stylesheet">
+
+  <!-- Font awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
 
@@ -34,8 +36,8 @@
           <li class="nav-item"><a class="nav-link" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
           <li class="nav-item"><a class="nav-link" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
           <li class="nav-item ">
-            <div class="nav-link"> Mudar palheta
-              <input type="checkbox" id="input-dark-mode" class="custom-chekbox">
+            <div class="nav-link custom-chekbox"> Contraste
+              <input type="checkbox" id="input-dark-mode">
             </div>
           </li>
           <li class="nav-item"><button onClick="fonte('a')" type="submit" id="increase-font" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
@@ -55,13 +57,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link text-center" href="index.php">Home<span class="sr-only">(Pagina atual)</span></a>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="index.php">Home<span class="sr-only">(Pagina atual)</span></a>
             </li>
-            <li class="nav-item"><a class="nav-link text-center" href="deficienciasNoBrasil.php">Deficientes No Brasil</a></li>
-            <li class="nav-item"><a class="nav-link text-center" href="acessibilidadeNaWeb.php">Acessibilidade na Web</a></li>
-            <li class="nav-item"><a class="nav-link text-center" href="aplicandoAcessibilidade.php">Aplicando Acessibilidade</a></li>
-            <li class="nav-item"><a class="nav-link text-center" href="quemSomos.php">Quem Somos</a></li/li>
-            <li class="nav-itiem"><a class="nav-link text-center" href="contato.php">Contato</a></li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="deficienciasNoBrasil.php">Brasil</a></li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="acessibilidadeNaWeb.php">Web</a></li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="aplicandoAcessibilidade.php">Acessibilidade</a></li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="quemSomos.php">Quem Somos</a></li/li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="contato.php">Contato</a></li>
           </ul>
         </div>
       </div>

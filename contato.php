@@ -53,7 +53,7 @@
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Mensagem"></textarea>
                 </div>
                 <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
-                    <button type="submit" class="btn btn-dark">Enviar</button>
+                    <button type="submit" class="btn btn-dark btn-custom">Enviar</button>
                 </div>
                 </form>
         </div>

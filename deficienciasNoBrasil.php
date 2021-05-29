@@ -13,42 +13,41 @@
       <section class="row">
 
         <div class="col-sm-6 col-lg-8 mb-4 mb-lg-0" id="conteudo">
-            <h1 class="display-4 text-black mt-5 mb-2 ">Titulo</h1>
-            <section class="row">
-                <div class="col-sm-6 col-lg-6  mb-lg-0" style="border: 1px solid; padding: 15px 0px;">
+            <h1 class="display-4 text-black mt-5 mb-2 ml-5">Titulo</h1>
+            <section class="row" style="justify-content: center;">
+                <div class="col-sm-6 col-lg-5  mb-lg-0 square">
                     <div class="px-0 px-lg-3">
-                        <h2 class="h2  font-base paddingBx">Cumprimento da lei</h2>
+                        <h2 class="h2  font-base paddingBx"><i class="fa fa-balance-scale" aria-hidden="true"></i>Cumprimento da lei</h2>
                         <p class="lead paddingBx  ">A acessibilidade nos sites é obrigatória para organizações públicas e privadas, conforme a Lei Brasileira de Inclusão</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-6  mb-lg-0" style="border: 1px solid; padding: 15px 0px;">
+                <div class="col-sm-6 col-lg-5  mb-lg-0 square">
                     <div class="px-0 px-lg-3">
-                        <h2 class="h2  font-base paddingBx">Mais acessos</h2>
+                        <h2 class="h2  font-base paddingBx"><i class="fa fa-bar-chart" aria-hidden="true"></i>Mais acessos</h2>
                         <p class="lead  paddingBx ">Um site acessível abre um novo canal de comunicação com milhões de pessoas, além de se posicionar melhor no Google.</p>
                     </div>
                 </div>
             </section>
-            <section class="row">
-                <div class="col-sm-6 col-lg-6  mb-lg-0" style="border: 1px solid; padding: 15px 0px;">
+            <section class="row" style="justify-content: center;">
+                <div class="col-sm-6 col-lg-5  mb-lg-0 square">
                     <div class="px-0 px-lg-3" >
-                        <h2 class="h2  font-base paddingBx" >Responsabilidade Social</h2>
+                        <h2 class="h2  font-base paddingBx" ><i class="fa fa-handshake-o" aria-hidden="true"></i>Responsabilidade Social</h2>
                         <p class="lead paddingBx">Ser acessível é contribuir diretamente para uma sociedade com mais diversidade e inclusão.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-6  mb-lg-0" style="border: 1px solid; padding: 15px 0px;">
+                <div class="col-sm-6 col-lg-5  mb-lg-0 square">
                     <div class="px-0 px-lg-3">
-                        <h2 class="h2  font-base paddingBx" >Inovação e Pioneirismo</h2>
+                        <h2 class="h2  font-base paddingBx" ><i class="fa fa-lightbulb-o" aria-hidden="true"></i>Inovação e Pioneirismo</h2>
                         <p class="lead  paddingBx ">Valorize sua marca com uma tecnologia brasileira premiada e reconhecida mundialmente.</p>
                     </div>
                 </div>
             </section>
         </div>
 
-        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0 align">
+        <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0 align law">
           <h1 class="display-4 text-black mt-5 mb-2 ">Lei nº 13.146</h1>
             <div class="px-0 px-lg-3">
               <p class="lead   ">
-                <br>
                 <br>
                 de 6 de julho de 2015: 
                 <br>

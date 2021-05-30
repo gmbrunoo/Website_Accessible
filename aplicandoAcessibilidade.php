@@ -12,14 +12,14 @@
     <section class="container h-100 py-5" id="conteudo">
       <section class="row">
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/20943758.jpg" alt="...">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/20943758.jpg" alt="Em segundo plano tem um celular, e em primeiro plano um rapaz mexendo em um notebook, e ao lado direito uma mulher segundo um simbolo de imagem.">
             <h2 class="h2 mb-4 font-base">HTML Semântico</h2>
             <p class="lead mb-5  ">Escrever HTML semântico diz respeito a utilizar corretamente as diversas tags da linguagem para explicitar o significado/objetivo de cada parte do documento, facilitando assim a sua leitura tanto por humanos, quanto por mecanismos de leitura de tela e buscadores.</p>
           </div>
         </div>
 
         <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0">
-            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/leitor.jpg" alt="...">
+            <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/leitor.jpg" alt="Na imagem há um robo, logo acima de um simbolo de microfone, e ao lado um rapaz segundo um tablet.">
             <h2 class="h2 mb-4 font-base">Leitor de Tela</h2>
             <p class="lead mb-5  ">Leitores de tela são programas utilizados para capturar qualquer informação apresentada em texto, com o objetivo de obter uma resposta do computador por meio de um sintetizador de voz. Em suma, o sistema passa por textos, fazendo a leitura de tudo o que ele consegue identificar, e permitindo que o usuário escute o conteúdo publicado na internet.</p>
             </div>
@@ -56,7 +56,7 @@
                 </div>
             </div>
             
-            </section>
+      </section>
     </section>
   </main>
  

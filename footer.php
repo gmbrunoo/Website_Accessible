@@ -2,7 +2,7 @@
   <footer id="footer">
     <section class="py-5">
       <div class="container h-100">
-        <div class="row h-100 align-items-center">
+        <div class="row h-100">
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
             <h1 class="display-4 mb-2 text-center">Sobre</h1>
             <p class="lead   ">Projeto desenvolvido para a disciplina de acessibilidade com o intuito de aplicar as diretrizes necessárias para o funcionamento adequado de um website acessivel aos mais diversos publicos.</p>
@@ -23,7 +23,7 @@
           </div>
 
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
-            <h1 class="display-4 mt-5 mb-2 text-center">Contato</h1>
+            <h1 class="display-4 mb-2 text-center">Contato</h1>
             <p class="lead">www.linkedin.com/in/bruno-godinho-562246137/</p>
             <p class="lead">www.linkedin.com/in/gustavo-souza-01b7694b/</p>
             <p class="lead">www.linkedin.com/in/gustavo-morinaga27/</p>

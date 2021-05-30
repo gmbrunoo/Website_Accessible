@@ -23,8 +23,12 @@
 
 <body id="body">
 
+  
+
+  <header class="fixed-top">
+
   <section class="acessibilidade">
-    <nav class="navbar navbar-expand-lg navbar-light  top-nav-custom">
+    <nav class="navbar navbar-expand-lg navbar-light top-nav-custom ">
 
       <button class="navbar-toggler  top-nav-button-custom " type="button" data-toggle="collapse" data-target="#topNav" aria-controls="topNav"
         aria-expanded="false" aria-label="Top Navigation">
@@ -32,11 +36,11 @@
       </button>
       <div class="collapse navbar-collapse" id="topNav">
         <ul class="navbar-nav mx-auto text-center">
-          <li class="nav-item"><a class="nav-link" href="#menu" accesskey="1">Ir para o menu [Alt + 1]</a></li>
-          <li class="nav-item"><a class="nav-link" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
-          <li class="nav-item"><a class="nav-link" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
+          <li class="nav-item"><a class="nav-link acess" href="#menu" accesskey="1">Ir para o menu [Alt + 1]</a></li>
+          <li class="nav-item"><a class="nav-link acess" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
+          <li class="nav-item"><a class="nav-link acess" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
           <li class="nav-item ">
-            <div class="nav-link custom-chekbox"> Contraste
+            <div class="nav-link custom-chekbox acess"> Contraste
               <input type="checkbox" id="input-dark-mode">
             </div>
           </li>
@@ -46,9 +50,8 @@
       </div>
     </nav>
   </section>
-
-  <header>
-    <nav class="navbar navbar-expand-xl navbar-dark bg-dark nav-custom">
+  
+    <nav class="navbar navbar-expand-xl navbar-dark bg-dark nav-custom ">
       <div class="container" id="menu">
         <a class="navbar-brand" href="index.php"><img src="./img/" alt="Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"

@@ -3,7 +3,7 @@
   <main>
        
     <section class="col-lg-12 banner ">
-    <img class="banner-img" src="./img/4504.jpg" alt="" >
+    <img class="banner-img" src="./img/4504.jpg" alt="Imagem com diversas pessoas, com algum tipo de deficiencia, como cegos, cadeirates, surdos, todos em forma de animação" >
     </section>
 
     <section class="py-5">
@@ -11,39 +11,39 @@
           <div class="row h-100 align-items-center">
             <div class="col-lg-12" id="conteudo">
               <h1 class="display-4 text-black mt-5 mb-2 text-center" >Acessibilidade</h1>
-              <p class="lead mb-5 ">Acessibilidade se diz respeito a possibilidade e condição de alcance para utlização de algo com segurança, autonomia, espaços, equipamentos urbanos, edificações, trasnporte, informações, comunicação, sistemas tecnologicos, como outros serviços e instalação abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana quanto rural, por pessoas com deficiência ou com mobilidade reduzida.</p>
+              <p class="lead mb-5 ">Acessibilidade se diz respeito a possibilidade e condição de alcance para utlização de algo com segurança, autonomia, espaços, equipamentos urbanos, edificações, transporte, informações, comunicação, sistemas tecnologicos, como outros serviços e instalação abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana quanto rural, por pessoas com deficiência ou com mobilidade reduzida.</p>
             </div>
           </div>
         </div>
     </section>
 
     <section class="container h-50 py-5 ">
-      <h2 class="display-4 text-black mt-5 mb-3 text-center ">Deficiencias</h2>
+      <h2 class="display-4 text-black mt-5 mb-3 text-center ">Deficiências</h2>
       <section class="row">
-        <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
+        <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
             
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/deficiencia_visual.jpg" width="150" alt="...">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/deficiencia_visual.jpg" width="150" alt="Em segundo plano, tem dois jovens com alguma deficiencia visual com uma paisagem de plantas atras, em cor azulada, e em primeiro plano tampando parte da imagem um coração.">
             <h2 class="h2 mb-4 font-base text-center">Visual</h2>
             <p class="lead mb-5 text-left">Deficiência visual se divide em dois grupos, que são chamadas baixa visão e cegueira. Cegueira significa a perda total da visão, já pessoas com baixa visão é uma condição na qual a visão da pessoa não pode ser totalmente corrigida por óculos.</p>
           </div>
         </div>
 
-        <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-        <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/auditiva.png" width="160" alt="...">
-          <h2 class="h2 mb-4 font-base text-center">Auditiva</h2>
-          <p class="lead mb-5 text-left">Deficiência Auditiva é a perda parcial ou definitva de detectar sons, causada por má-formação (causa genética), lesão na orelha ou composição do aparelho auditivo. Surdez é considerado surdo todo aquele que não escuta absolutamente nada.</p>
-        </div>
-        </div>
-
-        <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-      <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/cognitiva.png" width="110" alt="...">
-        <h2 class="h2 mb-4 font-base text-center">Cognitiva</h2>
-        <p class="lead mb-5 text-left">Deficiência cognitivas menos severas incluem déficit de atenção e desordem(ADD), dislexia(dificuldade em leitura), discalculia(dificuldade coma matemática) e dificuldades de aprendizagem em geral.</p>
-      </div>
+        <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/auditiva.png" width="160" alt="Na imagem é mostrada um casal de surdos, se comunicando, logo ao lado dessa imagem, há uma orelha com um simbolo de som inaudivel.">
+            <h2 class="h2 mb-4 font-base text-center">Auditiva</h2>
+            <p class="lead mb-5 text-left">Deficiência Auditiva é a perda parcial ou definitva de detectar sons, causada por má-formação (causa genética), lesão na orelha ou composição do aparelho auditivo. Surdez é considerado surdo todo aquele que não escuta absolutamente nada.</p>
+          </div>
         </div>
 
-        <div class="col-sm-6 col-lg-3 mb-4 mb-lg-0 text-center">
-          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/motora.png" width="110" alt="...">
+        <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/cognitiva.png" width="110" alt="Em segundo plano tem uma imagem de engrenagens, dentro de uma silhueta de um cerebro, e em primeiro plano uma pessoa, em forma de desenho, colcando a mão na cabeça, pensando em algo.">
+            <h2 class="h2 mb-4 font-base text-center">Cognitiva</h2>
+            <p class="lead mb-5 text-left">Deficiência cognitivas menos severas incluem déficit de atenção e desordem(ADD), dislexia(dificuldade em leitura), discalculia(dificuldade coma matemática) e dificuldades de aprendizagem em geral.</p>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
+          <div class="px-0 px-lg-3"><img class="img-fluid mb-4" src="./img/motora.png" width="110" alt="Em primeiro plano tem um cadeirante, em forma de desenho, e logo atras dele uma escada para algum lugar indefinido, com um simbolo de impossivel na frente.">
             <h2 class="h2 mb-4 font-base text-center">Motora</h2>
             <p class="lead mb-5 text-left">Deficiência motora é uma disfunção física ou motora, no qual pode ser cogénito ou adquirido. Esta disfunção  afeta à mobilidade. Esse tipo de deficiência pode decorrer de leões neurológicas, neuromusculares, ortopédicas e má formação</p>
           </div>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="col-lg-6 col-sm-12">
-          <img class="img-padding" src="./img/logo.png" alt="">
+          <img class="img-padding" src="./img/logo.png" alt="Nessa imagem contem 3 aparelhos móveis em primeiro plano, um celucar, um tablet e um monitor, representando um desktop e na frente desses, tem um cadeirante, em forma de desenho, segurando na mão um tablet">
         </div>
 
       </div>
@@ -80,11 +80,10 @@
                   <input type="email" class="form-control text-black lead" id="inlineFormInputName" placeholder="Digite seu email">
                 </div>
                 <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 text-center">
-                  <button type="submit" class="btn btn-dark btn-custom">Submit</button>
+                  <button type="submit" class="btn btn-dark btn-custom">Inscrever-se</button>
                 </div>
               </div>
             </form>
-
           </div>
         </div>
       </div>

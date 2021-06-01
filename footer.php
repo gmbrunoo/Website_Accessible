@@ -24,9 +24,9 @@
 
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
             <h1 class="display-4 mb-2 text-center">Contato</h1>
-            <p class="lead">www.linkedin.com/in/bruno-godinho-562246137/</p>
-            <p class="lead">www.linkedin.com/in/gustavo-souza-01b7694b/</p>
-            <p class="lead">www.linkedin.com/in/gustavo-morinaga27/</p>
+            <p class="lead text-center">www.linkedin.com/in/bruno-godinho-562246137/</p>
+            <p class="lead text-center">www.linkedin.com/in/gustavo-souza-01b7694b/</p>
+            <p class="lead text-center">www.linkedin.com/in/gustavo-morinaga27/</p>
           </div>
         </div>
       </div>

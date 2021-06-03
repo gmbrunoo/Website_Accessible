@@ -2,18 +2,18 @@
 
   <main>
     
-    <section class="col-lg-12 banner ">
+    <div class="col-lg-12 banner ">
       <img class="banner-img" src="./img/banner3.png" alt="Na imagem é encontrado um conjunto de pessoas, cegos e seus acompanhantes, e uma cadeirante, todos em primeiro plano e em forma de desenho.">
-    </section>
+    </div>
 
     
-
-    <section class="container h-100 py-5">
+<article>
+    <div class="container h-100 py-5">
       
       <section class="row">
 
         <div class="col-sm-12 col-lg-7 mb-4 mb-lg-0" id="conteudo">
-            <h1 class="display-4 text-black mt-5 mb-2 ml-5">4 motivos</h1>
+            <h2 class="display-4 text-black mt-5 mb-2 ml-5">4 motivos</h2>
             <section class="row" style="justify-content: space-evenly;">
                 <div class="col-sm-12 col-lg-5 mb-lg-0 square">
                     <div class="px-0 px-lg-3">
@@ -45,7 +45,7 @@
         </div>
 
         <div class="col-sm-12 col-lg-4 mb-4 mx-3 mb-lg-0 align law">
-          <h1 class="display-4 text-black mt-5 mb-2 ">Lei nº 13.146</h1>
+          <h2 class="display-4 text-black mt-5 mb-2 ">Lei nº 13.146</h2>
             <div class="px-0 px-lg-3">
               <p class="lead   ">
                 <br>
@@ -57,7 +57,7 @@
             </div>
           </div>
       </section>
-    </section>
+    </div>
 
 
     
@@ -67,7 +67,7 @@
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12">
-              <h1 class="display-4 text-black mt-5 mb-2 text-center">Deficiência no Brasil</h1>
+              <h2 class="display-4 text-black mt-5 mb-2 text-center">Deficiência no Brasil</h2>
               <p class="lead mb-5  ">
               De acordo com o Censo 2010, próximo de 46 milhões de brasileiros, cerca de 24% da população declarou ter algum grau de dificuldade em pelo menos uma das habilidades investigadas(enxergar, ouvir, caminhar), deficiência mental, entre outras.
 O IBGE captou informações sobre a dificuldade em ouvir, enxergar e caminhar, mesmo contando com facilitadores como óculos, aparelhos auditivos, bengalas.
@@ -81,6 +81,7 @@ Segundo a Munic 2017, cerca de 1.679 municípios que dispunham de serviço de tr
           </div>
         </div>
     </section>
-
+</article>
   </main>
-  <?php require_once("footer.php");?>
+  
+<?php require_once("footer.php");?>

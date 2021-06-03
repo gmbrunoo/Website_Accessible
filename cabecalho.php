@@ -23,11 +23,9 @@
 
 <body id="body">
 
-  
-
   <header class="fixed-top">
 
-  <section class="acessibilidade">
+  <div class="acessibilidade">
     <nav class="navbar navbar-expand-lg navbar-light top-nav-custom ">
 
       <button class="navbar-toggler  top-nav-button-custom " type="button" data-toggle="collapse" data-target="#topNav" aria-controls="topNav"
@@ -49,11 +47,11 @@
         </ul>
       </div>
     </nav>
-  </section>
+  </div>
   
     <nav class="navbar navbar-expand-xl navbar-dark bg-dark nav-custom ">
       <div class="container" id="menu">
-        <a class="navbar-brand" href="index.php"><img src="./img/" alt="Logo"></a>
+        <a class="navbar-brand" href="index.php"><img src="./img/logo.png" alt="Logo do site"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
           aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -65,10 +63,10 @@
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="deficienciasNoBrasil.php">Brasil</a></li>
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="acessibilidadeNaWeb.php">Web</a></li>
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="aplicandoAcessibilidade.php">Acessibilidade</a></li>
-            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="quemSomos.php">Quem Somos</a></li/li>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="quemSomos.php">Quem Somos</a></li>
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="contato.php">Contato</a></li>
           </ul>
         </div>
       </div>
     </nav>
-  </header>
+</header>

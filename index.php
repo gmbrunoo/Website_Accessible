@@ -2,15 +2,15 @@
 
   <main>
        
-    <section class="col-lg-12 banner ">
-    <img class="banner-img img-fluid" src="./img/4504.jpg" alt="Imagem com diversas pessoas, com algum tipo de deficiencia, como cegos, cadeirates, surdos, todos em forma de animação" >
-    </section>
-
+    <div class="col-lg-12 banner ">
+      <img class="banner-img img-fluid" src="./img/4504.jpg" alt="Imagem com diversas pessoas, com algum tipo de deficiencia, como cegos, cadeirates, surdos, todos em forma de animação" >
+    </div>
+<article>
     <section class="py-5">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
             <div class="col-lg-12" id="conteudo">
-              <h1 class="display-4 text-black mt-5 mb-2 text-center" >Acessibilidade</h1>
+              <h2 class="display-4 text-black mt-5 mb-2 text-center" >Acessibilidade</h2>
               <p class="lead mb-5 ">Acessibilidade se diz respeito a possibilidade e condição de alcance para utlização de algo com segurança, autonomia, espaços, equipamentos urbanos, edificações, transporte, informações, comunicação, sistemas tecnologicos, como outros serviços e instalação abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana quanto rural, por pessoas com deficiência ou com mobilidade reduzida.</p>
             </div>
           </div>
@@ -54,7 +54,7 @@
     <section class="container h-50 py-5">
       <div class="row">
         <div class="col-sm-12 col-lg-5 mb-4 mb-lg-0 text-center align">
-          <h1 class="display-4 text-black mt-5 mb-2">Acessibilidade na Web </h1>
+          <h2 class="display-4 text-black mt-5 mb-2">Acessibilidade na Web </h2>
           <p class="lead mb-5 text-left">Acessibilidade na Web diz respeito a prática de fazer websites de inclusão, para que todas as pessoas que tennham deficiência ou não possam acessar.
             Os sites que são corretamente desenvolvidos e editados, são consideráveis acessiveis para todos quando os usuários podem ter igual acesso as informações. </p>
         </div>
@@ -65,12 +65,13 @@
 
       </div>
     </section>
-    
+</article>
+<aside>    
     <section class="py-5">
       <div class="container h-50">
         <div class="row h-100 align-items-center">
           <div class="col-lg-12">
-            <h1 class="display-4 text-black mt-5 mb-2 text-center">Cartilha sobre acessibilidade </h1>
+            <h2 class="display-4 text-black mt-5 mb-2 text-center">Cartilha sobre acessibilidade </h2>
             <p class="lead mb-5 ">Cadastre-se para receber a nossa newsletter e conhecer tudo sobre a importancia de aplicar os meios de acessibilidade na web.</p>
             
             <form>
@@ -88,7 +89,7 @@
         </div>
       </div>
     </section>
-
+</aside>
   </main>
 
   <?php require_once("footer.php");?>

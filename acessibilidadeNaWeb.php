@@ -1,18 +1,14 @@
 <?php require_once("cabecalho.php");?>
 
   <main>
-         
-    <section class="col-lg-12 banner ">
-      <img class="banner-img" src="./img/teste3.jpg" alt="">
-    </section>
-
-    <section class="container h-100 py-5" id="conteudo">
+  <article>    
+    <div class="container h-100 py-5">
 
     <section class="py-5">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
-            <div class="col-lg-12" id="conteudo">
-              <h1 class="display-4 text-black mt-2 mb-2 text-center" >Beneficiando pessoas</h1>
+            <div class="col-lg-12">
+              <h2 class="display-4 text-black mt-2 mb-2 text-center" >Beneficiando pessoas</h2>
               <p class="lead mb-5 ">A acessibilidade na web traz benefícios para todas as pessoas, mas é fato que os maiores 
                                     beneficiados são aquelas com deficiências e mobilidade reduzida, além de idosos, leigos no 
                                     uso do computador e analfabetos funcionais (pessoas com baixo letramento, incapazes de 
@@ -26,7 +22,7 @@
 
       <section class="row py-4 centralizado">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img src="./img/visual.png" alt="...">
+            <img src="./img/visual.png" alt="Desenho de um rapaz com deficiencia visual andando na rua com seu cão guia, ao fundo podemos ver predios e também a representação de um olho indicando a deficiencia visual.">
         </div>
 
         <div class="col-sm-12 col-lg-6 mb-4  mb-lg-0 law">
@@ -46,13 +42,13 @@
                               nem para aumentar o tamanho das letras</p>
         </div>
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img src="./img/baixa.png" alt="">
+            <img src="./img/baixa.png" alt="Desenho de uma mulher segurando um pincel ao lado de um godê de tintas e um quadro ao fundo.">
         </div>        
       </section>
 
       <section class="row py-4 centralizado">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img src="./img/daltonismo.png" alt="">
+            <img src="./img/daltonismo.png" alt="Desenho de dois rapazes em frente a tela de um computador escolhendo entre varias paletas de cores.">
         </div>
 
         <div class="col-sm-12 col-lg-6  mb-lg-0 law">
@@ -70,13 +66,13 @@
                             transcrições e traduções em LIBRAS (Língua Brasileira de Sinais).</p>
         </div>
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img src="./img/surdo.png" alt="">
+            <img src="./img/surdo.png" alt="Desenho de um rapaz ensinando libras para duas outras pessoas sentadas em frente a uma mesa.">
         </div>        
       </section>
 
       <section class="row py-4 centralizado">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img src="./img/motora2.png" alt="">
+            <img src="./img/motora2.png" alt="Desenho de uma criança entregando uma flor para um cadeirante, ao fundo vemos uma casa branca e ao lado do cadeirante uma mulher.">
         </div>
 
         <div class="col-sm-12 col-lg-6 mb-4  mb-lg-0 law">
@@ -94,13 +90,13 @@
                               conteúdos em texto, áudio e vídeo para aprimorarem seus estudos</p>
         </div>
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img  src="./img/cognitiva2.png" alt="">
+            <img  src="./img/cognitiva2.png" alt="Desenho de uma moça e um rapaz montando um quebra-cabeça gigante em formato de cerebro, a moça esta em cima de uma escada encaixando uma peça enquanto o rapaz esta segurando outra na parte de baixo.">
         </div>        
       </section>
 
       <section class="row py-4 centralizado">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img  src="./img/experiencia.png" alt="">
+            <img  src="./img/experiencia.png" alt="Desenho de duas mulheres sentadas e utilizando o computador, uma dessas mulheres é uma idosa e esta desesperada por não saber utilizar o email.">
         </div>
 
         <div class="col-sm-12 col-lg-6  mb-lg-0 law">
@@ -119,14 +115,14 @@
                             navegabilidade e baixa complexidade das interações.</p>
         </div>
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img  src="./img/idosos2.png" alt="">
+            <img  src="./img/idosos2.png" alt="Desenho de 3 idosos, dois sentados num banco de praça e outro andando ao lado, são dois senhores e uma senhora, ela esta tricotando">
         </div>        
       </section>
 
       
       <section class="row py-4 centralizado">
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img  src="./img/wifi.png" alt="">
+            <img  src="./img/wifi.png" alt="Desenho de um rapaz sentado num puff mechendo no computador, no canto superior esta destacado o sinal de wi-fi">
         </div>
 
         <div class="col-sm-12 col-lg-6  mb-lg-0 law">
@@ -144,14 +140,14 @@
                             de processamento e armazenamento reduzidas</p>
         </div>
         <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 text-center">
-            <img  src="./img/mobile.png" alt="">
+            <img  src="./img/mobile.png" alt="Desenho de um rapaz sentado no chão e utilizando o computador, atrás dele há a imagem de varios dispositivos moveis representando a responsividade de uma página web.">
         </div>        
       </section>
 
 
-    </section>
+    </div>
 
-
+    </article>
   </main>
 
   <?php require_once("footer.php");?>

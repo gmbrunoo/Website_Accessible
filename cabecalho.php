@@ -34,12 +34,14 @@
       </button>
       <div class="collapse navbar-collapse" id="topNav">
         <ul class="navbar-nav mx-auto text-center">
-          <li class="nav-item"><a class="nav-link acess" href="#menu" accesskey="1">Ir para o menu [Alt + 1]</a></li>
-          <li class="nav-item"><a class="nav-link acess" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
-          <li class="nav-item"><a class="nav-link acess" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
+          <li class="nav-item"><a class="nav-link access" href="#menu" accesskey="1">Ir para o menu [Alt + 1]</a></li>
+          <li class="nav-item"><a class="nav-link access" href="#conteudo" accesskey="2">Ir para conteúdo [Alt + 2]</a></li>
+          <li class="nav-item"><a class="nav-link access" href="#footer" accesskey="3">Ir para o rodapé [Alt + 3]</a></li>
           <li class="nav-item ">
-            <div class="nav-link custom-chekbox acess"> Contraste
-              <input type="checkbox" id="input-dark-mode">
+            <div class="nav-link access">
+              <label class="nav-label custom-chekbox"> Contraste
+                <input type="checkbox" id="input-dark-mode">
+              </label>
             </div>
           </li>
           <li class="nav-item"><button onClick="fonte('a')" type="submit" id="increase-font" class="btn btn-dark top-nav-button-li-custom mb-1">A+</button></li>
@@ -58,7 +60,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link text-center navbar-custom" href="index.php">Home<span class="sr-only">(Pagina atual)</span></a>
+            <li class="nav-item"><a class="nav-link text-center navbar-custom active" href="index.php">Home<span class="sr-only">(Pagina atual)</span></a>
             </li>
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="deficienciasNoBrasil.php">Brasil</a></li>
             <li class="nav-item"><a class="nav-link text-center navbar-custom" href="acessibilidadeNaWeb.php">Web</a></li>

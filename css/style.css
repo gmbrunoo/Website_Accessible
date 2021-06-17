@@ -49,8 +49,9 @@ body[dark] header a:hover {
     color: #323232!important;
 }
 
-body[dark] .acess:hover {
+body[dark] .access:hover {
     color: #fe8894!important;
+    border-color: #fe8894!important;
 }
 
 body[dark] footer{
@@ -66,7 +67,7 @@ header{
 }
 
 footer{
-    background: #b881fc;
+    background: #7e70e5;
     color: #fff;
     
 }
@@ -102,7 +103,7 @@ footer{
     padding: 0;
     font-size: 1rem;
     color: #fff!important;
-    background: #b881fc;
+    background: #7e70e5;
     border-color: #fff;
 }
 
@@ -120,8 +121,8 @@ footer{
     padding: 0px 10px;
 }
 
-.nav-link{
-    color: default;
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(0 0 0 / 75%);
 }
 
 .radio-contraste{
@@ -160,7 +161,7 @@ iframe{
 }
 
 .law{
-    background: #b881fc;
+    background: #7e70e5;
     color: #fff;
     border-radius: 30px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.25);
@@ -185,7 +186,7 @@ iframe{
 }
 
 .bg-dark {
-    background-color: #b881fc!important;
+    background-color: #7e70e5!important;
 }
 
 body[dark] .bg-dark{
@@ -204,21 +205,23 @@ body[dark] .btn-dark{
 
 body[dark] .top-nav-button-custom{
 
-    color: #000!important;
+    color: #101010!important;
     background: #fe8894!important;
-    border-color: #000!important;
+    border-color: #101010!important;
 }
 
 
 body[dark] .btn-dark:hover{
     background-color: #a85b62!important;
     border-color: #a85b62!important;
+    color: #fff!important;
+    font-weight: 400;
 }
 
 .btn-dark {
     color: #fff;
-    background-color: #b881fc!important;
-    border-color: #b881fc!important;
+    background-color: #7e70e5!important;
+    border-color: #7e70e5!important;
     border-radius: 30px;
 }
 
@@ -229,20 +232,32 @@ body[dark] .btn-dark:hover{
     text-align: center;
 }
 
+header a{
+    border-bottom: 2px solid transparent;
+}
+
 header a:hover {
-    color: #9749f7!important;
+    border-color: #ffbb46!important;
+    color: #ffbb46!important;
+}
+
+body[dark] header a:hover {
+    border-color: #101010!important;
 }
 
 footer a:hover {
-    background: #9749f7;
-    color: #fff;
+    background: #ffbb46;
+    color: #101010;
     text-decoration: underline;
     border-radius: 30px;
+    font-weight: 500;
 }
 
 .btn-dark:hover{
-    background: #9749f7!important;
-    color: #fff;
+    background: #ffbb46!important;
+    border-color: #ffc86a!important;
+    color: #101010;
+    font-weight: 500;
 }
 
 .custom-chekbox{
@@ -251,9 +266,13 @@ footer a:hover {
     align-items: center;
 }
 
+.access:hover {
+    color: #ffbb46!important;
+}
+
 .avatar{
     border-radius: 30px;
-    background: #b881fc;
+    background: #7e70e5;
     box-shadow: 0 15px 35px rgba(0,0,0,0.25);
 }
 

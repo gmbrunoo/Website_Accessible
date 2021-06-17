@@ -3,7 +3,7 @@
   <main>
     
     <div class="col-lg-12 banner ">
-      <img class="banner-img" src="./img/banner3.png" alt="Na imagem é encontrado um conjunto de pessoas, cegos e seus acompanhantes, e uma cadeirante, todos em primeiro plano e em forma de desenho.">
+      <img class="banner-img" src="./img/banner31.png" alt="Na imagem é encontrado um conjunto de pessoas, cegos e seus acompanhantes, e uma cadeirante, todos em primeiro plano e em forma de desenho.">
     </div>
 
     
@@ -69,17 +69,17 @@
             <div class="col-lg-12">
               <h2 class="display-4 text-black mt-5 mb-2 text-center">Deficiência no Brasil</h2>
               <p class="lead mb-5  ">
-              De acordo com o Censo 2010, próximo de 46 milhões de brasileiros, cerca de 24% da população declarou ter algum grau de dificuldade em pelo menos uma das habilidades investigadas(enxergar, ouvir, caminhar), deficiência mental, entre outras.
-O IBGE captou informações sobre a dificuldade em ouvir, enxergar e caminhar, mesmo contando com facilitadores como óculos, aparelhos auditivos, bengalas.
-A pesquisa buscou também identificar deficiência intelectual e mental através da compreensão de realizações de atividades habituais.	
-A pesquisa considerando somente os que possuem grande ou total dificuldade para enxergar, ouvir e caminhar, além dos que declararão ter deficiência mental ou intelectual, temos mais de 12,5 milhões de brasileiros ocm deficiência, o que corresponde a 6,7% da população.
-A deficiência visual está presente em 3,4% da população brasileira; a motora está em 2,3%; deficiência mental em 1,4% e auditiva em 1,1%.
-Além do Censo, o IBGE também investiga as populações que possui deficiências com dificuldade de mobilidade, por meio da Pesquisa de Informações Básicas Municipais (Munic).
-Segundo a Munic 2017, cerca de 1.679 municípios que dispunham de serviço de transporte coletivo por ônibus intramunicipal, 11,7% estavam com a frota totalmente adaptada para a acessibilidade de pessoas com deficiência ou com mobilidade reduzida, enquanto 48,8% possuíam frota parcialmente adaptada.
+                De acordo com o Censo 2010, próximo de 46 milhões de brasileiros, cerca de 24% da população declarou ter algum grau de dificuldade em pelo menos uma das habilidades investigadas(enxergar, ouvir, caminhar), deficiência mental, entre outras.
+                O IBGE captou informações sobre a dificuldade em ouvir, enxergar e caminhar, mesmo contando com facilitadores como óculos, aparelhos auditivos, bengalas.
+                A pesquisa buscou também identificar deficiência intelectual e mental através da compreensão de realizações de atividades habituais.	
+                A pesquisa considerando somente os que possuem grande ou total dificuldade para enxergar, ouvir e caminhar, além dos que declararão ter deficiência mental ou intelectual, temos mais de 12,5 milhões de brasileiros ocm deficiência, o que corresponde a 6,7% da população.
+                A deficiência visual está presente em 3,4% da população brasileira; a motora está em 2,3%; deficiência mental em 1,4% e auditiva em 1,1%.
+                Além do Censo, o IBGE também investiga as populações que possui deficiências com dificuldade de mobilidade, por meio da Pesquisa de Informações Básicas Municipais (Munic).
+                Segundo a Munic 2017, cerca de 1.679 municípios que dispunham de serviço de transporte coletivo por ônibus intramunicipal, 11,7% estavam com a frota totalmente adaptada para a acessibilidade de pessoas com deficiência ou com mobilidade reduzida, enquanto 48,8% possuíam frota parcialmente adaptada.
               </p>
-            </div>
           </div>
         </div>
+      </div>
     </section>
 </article>
   </main>

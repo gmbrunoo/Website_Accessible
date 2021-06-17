@@ -24,9 +24,9 @@
 
           <div class="col-sm-12 col-lg-4 mb-4 mb-lg-0 mx-auto">
             <h1 class="display-4 mb-2 text-center">Contato</h1>
-            <p class="lead text-center">www.linkedin.com/in/bruno-godinho-562246137/</p>
-            <p class="lead text-center">www.linkedin.com/in/gustavo-souza-01b7694b/</p>
-            <p class="lead text-center">www.linkedin.com/in/gustavo-morinaga27/</p>
+            <p class="lead text-center"><a class="nav-link lead text-center" title="Link para o linkedIn do Bruno Godinho" href="https://www.linkedin.com/in/bruno-godinho-562246137/">LinkedIn Bruno Godinho</a></p>
+            <p class="lead text-center"><a class="nav-link lead text-center" title="Link para o linkedIn do Gustavo Souza" href="https://www.linkedin.com/in/gustavo-souza-01b7694b/">LinkedIn Gustavo Souza</a></p>
+            <p class="lead text-center"><a class="nav-link lead text-center" title="Link para o linkedIn do Gustavo Matheus" href="https://www.linkedin.com/in/gustavo-morinaga27/">LinkedIn Gustavo Matheus</a></p>
           </div>
         </div>
       </div>
